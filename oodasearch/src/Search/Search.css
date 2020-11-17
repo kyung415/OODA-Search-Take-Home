@@ -17,9 +17,10 @@
 
 #searchHeader button {
     height: 45px;
-    max-width: 60px;
-    min-width: 60px;
+    max-width: 10%; 
+    min-width: 10%;
     color: white;
+    font-size: 70%;
 }
 
 #toggleButton {
@@ -46,3 +47,6 @@
     width: 100%;
 }
 
+#searchBody {
+    width: 100%;
+}

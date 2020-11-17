@@ -4,4 +4,8 @@
     margin: auto;
     border: 1px solid black;
     text-align: left;
+    z-index: 10;
+    position: relative;
+    background-color: #ffffff;
+    opacity: 1.0;
 }

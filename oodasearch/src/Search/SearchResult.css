@@ -1,0 +1,21 @@
+#searchResult {
+    height: 400px;
+    width: 100%;
+    /* background-color: lightblue; */
+    margin-top: 25px;
+}
+
+#searchResult table {
+    border: 1px solid black;
+    /* background-color: lightgreen; */
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#searchResult tr {
+    border: 1px solid black;
+}
+
+#searchResult td {
+    border: 1px solid black;
+}
