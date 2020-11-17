@@ -1,0 +1,48 @@
+#search {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    height: 1000px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#searchHeader {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#searchHeader button {
+    height: 45px;
+    max-width: 60px;
+    min-width: 60px;
+    color: white;
+}
+
+#toggleButton {
+    background-color: #2185D0;
+}
+
+#searchButton {
+    background-color: #2185D0;
+}
+
+#searchInputContainer {
+    width: 80%;
+    height: 45px;
+}
+
+#searchInputContainer input {
+    width: 100%;
+    height: 45px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+#searchResultsContainer {
+    width: 100%;
+}
+
